@@ -1,2 +1,5 @@
 rojo
 verde
+malva
+negro
+blanco
